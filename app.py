@@ -1,2 +1,2 @@
 import streamlit as st
-st.tittle("Proyecto Módulo 1 fundamentals")
+st.title("Proyecto Módulo 1 fundamentals")
