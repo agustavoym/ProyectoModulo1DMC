@@ -17,8 +17,11 @@ lista_numerica = list(range(valor_inicial, valor_final))
 
 st.write(lista_numerica)
 
-if modulo = "Módulo Array":
+elif modulo = "Módulo Array":
 st.write("Estas en el módulo de arreglos"
 
 else:
 st.write("Estas en el módulo de funciones"
+
+
+         
