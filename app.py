@@ -21,7 +21,7 @@ elif modulo = "Módulo Array":
 st.write("Estas en el módulo de arreglos"
 
 else:
-st.write("Estas en el módulo de funciones"
+st.write("Estas en el módulo de funciones")
 
 
          
